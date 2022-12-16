@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tflibsonnet.com">
+  <a href="https://github.com/tf-libsonnet">
     <picture>
       <img
         alt="tf.libsonnet"
