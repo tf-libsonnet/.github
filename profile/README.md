@@ -41,4 +41,4 @@ local o =
 o
 ```
 
-Learn more at [docs.tflibsonnet.com](https://docs.tflibsonnet.com/).
+Learn more at [docs.tflibsonnet.com](https://docs.tflibsonnet.com/docs/).
