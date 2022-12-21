@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  Learn more at [docs.tflibsonnet.com](https://docs.tflibsonnet.com/docs/).
+  Learn more at <a href="https://docs.tflibsonnet.com/docs/">docs.tflibsonnet.com</a>.
 </p>
